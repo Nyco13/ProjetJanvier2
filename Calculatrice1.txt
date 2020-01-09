@@ -1,0 +1,8 @@
+var entree1, entree2, operateur1, resultat;
+
+    entree1= prompt('Entrez votre premier élément');
+    operateur1= prompt('Entrez l'opérateur');
+    entree2= prompt('Entrez votre premier élément');
+    resultat=entree1+operateur1+entree2
+
+Alert('Le résultat est: '+resultat);
